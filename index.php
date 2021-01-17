@@ -105,7 +105,7 @@ height: auto;}
     </div>
     </section>
 </div>
-<div id="footer" align="Center"> Pharmacy Sys 2013. Copyright All Rights Reserved</div>
+<div id="footer" align="Center"> Pharmacy Sys 2021. Copyright All Rights Reserved</div>
 </div>
 </body>
 </html>
