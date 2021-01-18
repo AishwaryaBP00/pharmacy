@@ -45,23 +45,23 @@ height: 470px;
 <!-- Dashboard icons -->
             <div class="grid_7">
             	<a href="manager.php" class="dashboard-module">
-                	<img src="images/manager_icon.png" width="100" height="100" alt="edit" />
+                	<img src="https://cdn3.iconfinder.com/data/icons/user-group-black/100/user-document-512.png" width="100" height="100" alt="edit" />
                 	<span>Dashboard</span>
                 </a>
 				<a href="view.php" class="dashboard-module">
-                	<img src="images/patients_1.png"  width="100" height="100" alt="edit" />
+                	<img src="https://cdn3.iconfinder.com/data/icons/kripto-black/128/kripto-group-b-512.png"  width="100" height="100" alt="edit" />
                 	<span>View Users</span>
                 </a>
                	<a href="#" class="dashboard-module">
-                	<img src="images/Invoice.png"  width="100" height="100" alt="edit" />
+                	<img src="https://cdn.onlinewebfonts.com/svg/img_461192.png"  width="100" height="100" alt="edit" />
                 	<span>View Invoices</span>
                 </a>
 				<a href="view_prescription.php" class="dashboard-module">
-                	<img src="images/prescri.jpg" width="100" height="100" alt="edit" />
+                	<img src="https://d338t8kmirgyke.cloudfront.net/icons/icon_pngs/000/006/056/original/medical-prescription.png" width="100" height="100" alt="edit" />
                 	<span>View Prescription</span>
 				</a>
 				<a href="stock.php" class="dashboard-module">
-                	<img src="images/stock_icon.jpg" width="100" height="100" alt="edit" />
+                	<img src="https://static.thenounproject.com/png/7401-200.png" width="100" height="100" alt="edit" />
                 	<span>Manage Stock</span>
                 </a>
         </div>

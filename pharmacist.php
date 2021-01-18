@@ -44,16 +44,16 @@ height: 470px;
 <!-- Dashboard icons -->
             <div class="grid_7">
             	<a href="pharmacist.php" class="dashboard-module">
-                	<img src="images/pharmacist_icon.jpg" width="100" height="100" alt="edit" />
+                	<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/pharmacist-3-568191.png" width="100" height="100" alt="edit" />
                 	<span>Dashboard</span>
                 </a>
                              
                 <a href="prescription.php" class="dashboard-module">
-                	<img src="images/prescri.jpg"  width="100" height="100" alt="edit" />
+                	<img src="https://d338t8kmirgyke.cloudfront.net/icons/icon_pngs/000/006/056/original/medical-prescription.png"  width="100" height="100" alt="edit" />
                 	<span>Prescription</span>
                 </a>
 	            <a href="stock_pharmacist.php" class="dashboard-module">
-                	<img src="images/stock_icon.jpg" width="100" height="100" alt="edit" />
+                	<img src="https://static.thenounproject.com/png/7401-200.png" width="100" height="100" alt="edit" />
                 	<span>Stock</span>
                 </a>
               </div>

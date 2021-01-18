@@ -98,7 +98,7 @@ return false;
 <body>
 <div id="content">
 <div id="header">
-<h1><a href="#"><img src="https://www.graphicsprings.com/filestorage/stencils/62eedfb5818a17fdb9581b1b9324a630.png?width=500&height=500"></a> Pharmacy Sys</h1></div>
+<h1><a href="#"><img src="https://www.graphicsprings.com/filestorage/stencils/62eedfb5818a17fdb9581b1b9324a630.png?width=500&height=500"></a> Pharmacy</h1></div>
 <div id="left_column">
 <div id="button">
 <ul>

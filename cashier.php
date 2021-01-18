@@ -43,11 +43,11 @@ height: 470px;
 <!-- Dashboard icons -->
             <div class="grid_7">
             	<a href="cashier.php" class="dashboard-module">
-                	<img src="images/cashier_icon.jpg" width="100" height="100" alt="edit" />
+                	<img src="https://cdn.onlinewebfonts.com/svg/img_507209.png" width="100" height="100" alt="edit" />
                 	<span>Dashboard</span>
                 </a>
 			     <a href="payment.php"target="_top" class="dashboard-module">
-                	<img src="images/payment.png" width="100" height="100" alt="edit" />
+                	<img src="https://cdn4.iconfinder.com/data/icons/currency-icon-filled-black-vol-1/100/Indian_Rupee_Currency-512.png" width="100" height="100" alt="edit" />
                 	<span>Process Payment</span>
                 </a>
               </div>
