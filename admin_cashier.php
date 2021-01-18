@@ -37,7 +37,7 @@ $message1="<font color=red>Registration Failed, Try again</font>";
 <!DOCTYPE html>
 <html>
 <head>
-<title><?php echo $username;?> - Pharmacy Sys</title>
+<title><?php echo $username;?> - Pharmacy</title>
 <link rel="stylesheet" type="text/css" href="style/mystyle.css">
 <link rel="stylesheet" href="style/style.css" type="text/css" media="screen" /> 
 <link rel="stylesheet" href="style/table.css" type="text/css" media="screen" /> 

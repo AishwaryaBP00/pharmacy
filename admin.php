@@ -12,7 +12,7 @@ exit();
 <!DOCTYPE html>
 <html>
 <head>
-<title><?php echo $user;?> - Pharmacy Sys</title>
+<title><?php echo $user;?> - Pharmacy</title>
 <link rel="stylesheet" type="text/css" href="style/mystyle.css">
 <link rel="stylesheet" href="style/style.css" type="text/css" media="screen" /> 
 <link rel="stylesheet" type="text/css" href="style/dashboard_styles.css"  media="screen" />
@@ -27,7 +27,7 @@ height: 470px;
 <body>
 <div id="content">
 <div id="header">
-<h1><a href="#"><img src="images/hd_logo.jpg"></a> Pharmacy</h1></div>
+<h1><a href="#"><img src="https://www.graphicsprings.com/filestorage/stencils/62eedfb5818a17fdb9581b1b9324a630.png?width=500&height=500"></a> Pharmacy</h1></div>
 <div id="left_column">
 <div id="button">
 <ul>
@@ -63,7 +63,7 @@ height: 470px;
                 </a>				  
 			</div>
 </div>
-<div id="footer" align="Center"> Pharmacy Management 2021S. Copyright All Rights Reserved</div>
+<div id="footer" align="Center"> Pharmacy Management 2021. Copyright All Rights Reserved</div>
 </div>
 </body>
 </html>
