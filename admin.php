@@ -27,7 +27,7 @@ height: 470px;
 <body>
 <div id="content">
 <div id="header">
-<h1><a href="#"><img src="images/hd_logo.jpg"></a> Pharmacy Sys</h1></div>
+<h1><a href="#"><img src="images/hd_logo.jpg"></a> Pharmacy</h1></div>
 <div id="left_column">
 <div id="button">
 <ul>
@@ -63,7 +63,7 @@ height: 470px;
                 </a>				  
 			</div>
 </div>
-<div id="footer" align="Center"> Pharmacy Sys 2013. Copyright All Rights Reserved</div>
+<div id="footer" align="Center"> Pharmacy Management 2021S. Copyright All Rights Reserved</div>
 </div>
 </body>
 </html>

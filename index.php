@@ -67,7 +67,7 @@ echo <<<LOGIN
 <!DOCTYPE html>
 <html>
 <head>
-<title>Pharmacy Sys</title>
+<title>Pharmacy</title>
 <link rel="stylesheet" type="text/css" href="style/mystyle_login.css">
 <style>
 #content {
