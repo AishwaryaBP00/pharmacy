@@ -80,14 +80,14 @@ height: auto;}
 <body>
 <div id="content">
 <div id="header">
-<h1><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Red_Cross_Icon_Reworked.jpg">Pharmacy </h1>
+<h1><img src="https://www.graphicsprings.com/filestorage/stencils/62eedfb5818a17fdb9581b1b9324a630.png?width=500&height=500">Pharmacy </h1>
 </div>
 <div id="main">
 
   <section class="container">
   
      <div class="login">
-	 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Red_Cross_Icon_Reworked.jpg">
+	 <img src="https://www.graphicsprings.com/filestorage/stencils/62eedfb5818a17fdb9581b1b9324a630.png?width=500&height=500">
       <h1>Login here</h1>
 	  $message
       <form method="post" action="index.php">
