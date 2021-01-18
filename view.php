@@ -15,7 +15,7 @@ exit();
 <!DOCTYPE html>
 <html>
 <head>
-<title><?php $user?> Pharmacy Sys</title>
+<title><?php $user?> Pharmacy </title>
 <link rel="stylesheet" type="text/css" href="style/mystyle.css">
 <link rel="stylesheet" href="style/style.css" type="text/css" media="screen" /> 
 <link rel="stylesheet" href="style/table.css" type="text/css" media="screen" /> 
@@ -27,7 +27,7 @@ exit();
 <body>
 <div id="content">
 <div id="header">
-<h1><a href="#"><img src="images/hd_logo.jpg"></a> Pharmacy Sys</h1></div>
+<h1><a href="#"><img src="images/hd_logo.jpg"></a> Pharmacy </h1></div>
 <div id="left_column">
 <div id="button">
 		<ul>
@@ -149,7 +149,8 @@ exit();
                 // echo out the contents of each row into a table
                 echo "<tr>";
                 
-                echo '<td>' . $row['first_name'] . '</td>';
+                echo '<td>' . $row['first_name'] . '</td>' ;
+
 				echo '<td>' . $row['last_name'] . '</td>';
 				echo '<td>' . $row['Staff_id'] . '</td>';
 				echo '<td>' . $row['phone'] . '</td>';
@@ -164,7 +165,7 @@ exit();
     </div>  
 </div>
 </div>
-<div id="footer" align="Center"> Pharmacy Sys 2013. Copyright All Rights Reserved</div>
+<div id="footer" align="Center"> Pharmacy Management 2021. Copyright All Rights Reserved</div>
 </div>
 </body>
 </html>

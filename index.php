@@ -80,7 +80,7 @@ height: auto;}
 <body>
 <div id="content">
 <div id="header">
-<h1><img src="images/hd_logo.jpg">Pharmacy Sys</h1>
+<h1><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Red_Cross_Icon_Reworked.jpg">Pharmacy Sys</h1>
 </div>
 <div id="main">
 
@@ -105,7 +105,7 @@ height: auto;}
     </div>
     </section>
 </div>
-<div id="footer" align="Center"> Pharmacy Sys 2021. Copyright All Rights Reserved</div>
+<div id="footer" align="Center"> Pharmacy Management 2021. Copyright All Rights Reserved</div>
 </div>
 </body>
 </html>
