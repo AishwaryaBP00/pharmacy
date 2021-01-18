@@ -41,7 +41,7 @@ $message1="<font color=red>Update Failed, Try again</font>";
 <body>
 <div id="content">
 <div id="header">
-<h1><a href="#"><img src="images/hd_logo.jpg"></a> Pharmacy Sys</h1></div>
+<h1><a href="#"><img src="https://www.graphicsprings.com/filestorage/stencils/62eedfb5818a17fdb9581b1b9324a630.png?width=500&height=500"></a> Pharmacy Sys</h1></div>
 <div id="left_column">
 <div id="button">
 <ul>
@@ -83,7 +83,7 @@ $message1="<font color=red>Update Failed, Try again</font>";
     </div>  
 </div>
 </div>
-<div id="footer" align="Center"> Pharmacy Sys 2013. Copyright All Rights Reserved</div>
+<div id="footer" align="Center"> Pharmacy Management 2021. Copyright All Rights Reserved</div>
 </div>
 </body>
 </html>
