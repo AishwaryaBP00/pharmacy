@@ -152,7 +152,7 @@ exit();
                 echo '<td>' . $row['first_name'] . '</td>' ;
 
 				echo '<td>' . $row['last_name'] . '</td>';
-				echo '<td>' . $row['Staff_id'] . '</td>';
+				echo '<td>' . $row['staff_id'] . '</td>';
 				echo '<td>' . $row['phone'] . '</td>';
 				echo '<td>' . $row['email'] . '</td>';
 				echo '<td>' . $row['username'] . '</td>';

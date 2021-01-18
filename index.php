@@ -87,8 +87,8 @@ height: auto;}
   <section class="container">
   
      <div class="login">
-	 <img src="https://www.graphicsprings.com/filestorage/stencils/62eedfb5818a17fdb9581b1b9324a630.png?width=500&height=500">
-      <h1>Login here</h1>
+	 <img src="https://image.flaticon.com/icons/png/512/33/33308.png">
+      <h1>Enter Login Details</h1>
 	  $message
       <form method="post" action="index.php">
 		 <p><input type="text" name="username" value="" placeholder="Username"></p>
