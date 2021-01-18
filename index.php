@@ -80,14 +80,14 @@ height: auto;}
 <body>
 <div id="content">
 <div id="header">
-<h1><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Red_Cross_Icon_Reworked.jpg">Pharmacy Sys</h1>
+<h1><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Red_Cross_Icon_Reworked.jpg">Pharmacy </h1>
 </div>
 <div id="main">
 
   <section class="container">
   
      <div class="login">
-	 <img src="images/hd_logo.jpg">
+	 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Red_Cross_Icon_Reworked.jpg">
       <h1>Login here</h1>
 	  $message
       <form method="post" action="index.php">
